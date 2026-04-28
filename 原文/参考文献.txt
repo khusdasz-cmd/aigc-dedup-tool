@@ -1,0 +1,55 @@
+参考文献
+熊兴泉, 张辉, 高利柱. 木质素的功能化与应用研究进展[J]. 应用化学, 2023, 40: 806-819.
+熊福全, 王航, 韩雁明, 等. 木质素微纳米球的制备与应用研究现状[J]. 林业科学, 2019, 55: 170-175.
+工业和信息化部, 国家发展和改革委员会, 等. 加快非粮生物基材料创新发展三年行动方案[Z]. 工信部联原〔2023〕5号.
+van Leuken S H M, van Osch D J G P, Kouris P D, et al. Lignin quantification method for lignin-first biorefineries[J]. Green Chemistry, 2023, 25: 2852-2862.
+Allegretti C, Fontanay S, Krauke Y, et al. Fractionation of wheat straw lignin by membrane filtration with lignin-mimicking ionic liquids[J]. Green Chemistry, 2022, 24: 1445-1458.
+YU J, WANG D S, SUN L S. The pyrolysis of lignin: Pathway and interaction studies[J]. Fuel, 2021, 290: 120078.
+FAN Y Y, LIU C, ZHANG Z X, et al. Novel insights into mass transfer-controlled radical-mediated co-pyrolysis of lignin with typical plastics[J]. Chemical Engineering Journal, 2024, 480: 148150.
+Toledano A, Garcia A, Mondragon I, Labidi J. Lignin separation and fractionation by ultrafiltration[J]. Separation and Purification Technology, 2010, 71(1): 38-43.
+Zhang J, Tian Z, Ji X, Zhang F. Light-colored lignin extraction by ultrafiltration from lignocellulosic biorefinery[J]. Industrial Crops and Products, 2022, 187: 115402.
+Costa C A E, Pinto P C R, Rodrigues A E. Lignin fractionation from E. globulus kraft black liquor by ultrafiltration[J]. Separation and Purification Technology, 2018, 192: 140-151.
+Aminzadeh S, Lauberts M, Dobele G, et al. Membrane filtration of kraft lignin and its fractionation[J]. Industrial Crops and Products, 2022, 177: 114488.
+LIU Z H, LIU H, XU T, et al. Lignin valorization reshapes sustainable biomass refining[J]. Renewable & Sustainable Energy Reviews, 2025, 211: 115296.
+SUN Z, LI K J, BU Y S, et al. Co-pyrolysis of subbituminous coal and lignin at isothermal and non-isothermal conditions[J]. Journal of the Energy Institute, 2024, 116: 101717.
+JIANG P, PENG B, HAN Y M, et al. Colloidal lignin valorization: From macromolecular design to targeted applications[J]. Progress in Polymer Science, 2024, 154: 101839.
+SHERIDAN E, FILENONKO S, VOLIKOV A, et al. A systematic study on the processes of lignin extraction and nanodispersion[J]. Green Chemistry, 2024, 26(6): 2967-2984.
+王则祥, 李航, 谢文銮, 等. 木质素基本结构、热解机理及特性研究进展[J]. 新能源进展, 2020, 8(1): 6-14.
+陈磊, 陈汉平, 陆强, 等. 木质素结构及热解特性[J]. 化工学报, 2014, 65(9): 3626-3633.
+CHEN D Y, CEN K H, ZHUANG X Z, et al. Insight into biomass pyrolysis mechanism based on cellulose, hemicellulose, and lignin[J]. Combustion and Flame, 2022, 242: 112142.
+ZONG P J, JIANG Y, TIAN Y Y, et al. Pyrolysis behavior and product distributions of biomass six group components[J]. Energy Conversion and Management, 2020, 216: 112777.
+YUAN J M, LI H, XIAO L P, et al. Valorization of lignin into phenolic compounds via fast pyrolysis: Impact of lignin structure[J]. Fuel, 2022, 319: 123758.
+PANG T R, WANG G H, SUN H, et al. Lignin Fractionation for Reduced Heterogeneity in Self-Assembly Nanosizing[J]. ACS Sustainable Chemistry & Engineering, 2020, 8(24): 9174-9183.
+ZHOU M, FAKAYODE O A, YAGOUB A A, et al. Lignin fractionation from lignocellulosic biomass using deep eutectic solvents and its valorization[J]. Renewable & Sustainable Energy Reviews, 2022, 156: 111986.
+ZHANG M, XUE Y, ZHENG M, et al. Co-pyrolysis of lignin and polyethylene with reactive molecular dynamics[J]. Journal of Analytical and Applied Pyrolysis, 2025, 186: 106907.
+MAGALHAES S, ALIANO-GONZALEZ M J, RODRIGUES M, et al. Enhancing Cellulose and Lignin Fractionation from Acacia Wood[J]. Molecules, 2024, 29(15): 3495.
+LIU S S, WU G, ZHANG L, et al. Promoted production of phenol from lignin pyrolysis over biochar-based catalysts by Fe and Ni co-loading[J]. Journal of Analytical and Applied Pyrolysis, 2024, 182: 106708.
+MENDES S F, RODRIGUES J S, DE LIMA V H, et al. Forward Black Liquor Acid Precipitation: Lignin Fractionation by Ultrafiltration[J]. Applied Biochemistry and Biotechnology, 2021, 193(10): 3079-3097.
+Wu X, Lian H, Li X, Xiao J. The mechanism of self-assembly of lignin nanoparticles[J]. Industrial Crops and Products, 2022, 186: 115239.
+FENG N J, ZHAO X D, HU J X, et al. Recent advance in preparation of lignin nanoparticles and their medical applications: A review[J]. Phytomedicine, 2024, 130: 155711.
+邓永红, 刘友法, 张伟健, 等. 木质素基偶氮聚合物胶体球的制备[J]. 物理化学学报, 2015, 31(3): 505-511.
+AFRAPOMAH G S, OBENG A K, WANMOLEE W, et al. Innovations in Lignin Nanoparticle Synthesis: A Review[J]. Waste and Biomass Valorization, 2026, 17(4): 1893-1917.
+WANG Z S, LI C G, LIU X D, et al. Formation of Homogeneous Lignin Nanoparticles from Industrial Kraft Lignin via Fractionation Combined with Antisolvent Precipitation[J]. Biomacromolecules, 2025, 26(3): 1838-1849.
+YANG H P, YAN R, CHEN H P, et al. Characteristics of hemicellulose, cellulose and lignin pyrolysis[J]. Fuel, 2007, 86(12-13): 1781-1788.
+HE Y L, SHEN R J, SHAO L P, et al. Efficient binary diol-based deep eutectic solvent pretreatment for enhancing enzymatic saccharification and lignin fractionation from eucalyptus[J]. Bioresource Technology, 2024, 412: 131423.
+SUN C, TAN H Y, ZHANG Y H. Simulating the pyrolysis interactions among hemicellulose, cellulose and lignin in wood waste[J]. Renewable Energy, 2023, 205: 851-863.
+LIU J J, LIU Y, HOU Z Y, et al. One-Step Synthesis of Waterborne Epoxidized Lignin Nanoparticles with High Epoxy Value and Stability for High-Strength Adhesives[J]. ACS Sustainable Chemistry & Engineering, 2024, 12(42): 15376-15386.
+聂玮冬,孙道轩,田数娥,等.木质素催化热解制芳烃研究进展（英文）[J/OL].燃料化学学报(中英文),1-19[2026-04-20].https://link.cnki.net/urlid/14.1410.TQ.20251121.1002.007.
+白状伟,周安宁,张怀青,等.水热预处理对黄陵煤与酶解木质素共热解协同效应机制的研究（英文）[J/OL].燃料化学学报(中英文),1-18[2026-04-20].https://link.cnki.net/urlid/14.1410.TQ.20251111.1301.004.
+卢佳玥.木质素改性制备单分散胶体球及其应用研究[D].广东工业大学,2025.DOI:10.27029/d.cnki.ggdgu.2025.000226.
+王永忠.膜分离技术在制浆造纸废水处理中的应用分析[J].化工管理,2020,(08):72-73.
+董志国,刘紫灏,李建,等.超滤黑液木质素催化热解特性研究[J].太阳能学报,2020,41(02):58-65.DOI:10.19912/j.0254-0096.2020.02.009.
+王欢,杨东杰,钱勇,等.木质素基功能材料的制备与应用研究进展[J].化工进展,2019,38(01):434-448.DOI:10.16085/j.issn.1000-6613.2018-1105.
+邵鲁鹏.工业木质素热化学转化制备芳香化学品的研究[D].北京林业大学,2018.DOI:10.26949/d.cnki.gblyu.2018.000108.
+钟晓雯.木质素基胶束制备及其高效紫外防护应用研究[D].华南理工大学,2017.
+李圆圆,杨东杰,邱学青.pH响应木质素基胶体球的制备和表征[J].高等学校化学学报,2017,38(05):880-887.
+王冠华.汽爆秸秆木质素分级及其材料的制备[D].中国科学院研究生院(过程工程研究所),2015.
+李浩.分子间相互作用对木质素两亲聚合物微结构的影响及纳米微球的制备[D].华南理工大学,2015.
+钱勇.木质素两亲聚合物的微结构及聚集体调控[D].华南理工大学,2014.
+金湓,李宝霞.纤维素与木质素共热解试验及动力学分析[J].化工进展,2013,32(02):303-307.
+程辉,余剑,姚梅琴,等.木质素慢速热解机理[J].化工学报,2013,64(05):1757-1765.
+孙云杰,周景辉.超滤分级造纸黑液中木素的研究进展[J].华东纸业,2010,41(04):53-56.
+陈伟,佟玲,陈文清,等.膜分离技术在印染废水分质处理与分段回用中的应用[J].环境污染与防治,2008,(07):62-66.DOI:10.15985/j.cnki.1001-3865.2008.07.016.
+宋春财,胡浩权.秸秆及其主要组分的催化热解及动力学研究[J].煤炭转化,2003,(03):91-97.
+WANG H, XIONG F Q, TAN Y J, et al. Preparation and Formation Mechanism of Covalent-Noncovalent Forces Stabilizing Lignin Nanospheres and Their Application in Superhydrophobic and Carbon Materials [J]. ACS Sustainable Chemistry & Engineering, 2021, 9 (10): 3811-3820.
+
