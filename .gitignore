@@ -1,0 +1,19 @@
+# 降重工作流输出文件
+output/
+*.pyc
+__pycache__/
+
+# 论文专属文件（非 skill 通用内容）
+# 检测报告
+AIGC检测报告*.html
+
+# 论文专属 Python 脚本（通用版本在 .claude/skills/aigc-dedup/scripts/）
+l0_*.py
+l3_*.py
+l4_*.py
+l5_*.py
+
+# 论文 word / pdf 文件
+*.docx
+免费_*.pdf
+v7_report_*.txt
