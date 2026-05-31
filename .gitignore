@@ -2,6 +2,19 @@
 output/
 *.pyc
 __pycache__/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
 
 # 论文专属文件（非 skill 通用内容）
 # 检测报告

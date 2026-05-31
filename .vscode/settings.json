@@ -1,5 +1,0 @@
-{
-    \"python.analysis.typeCheckingMode\": \"basic\",
-    \"files.autoGuessEncoding\": true,
-    \"files.candidateGuessEncodings\": [\"utf8\", \"gb2312\"]
-}
